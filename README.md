@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-To simplify the overall process of hostel room allocation, we developed this web application which will be beneficial for both students and the hostel administrators. The application ensures a transparent and efficient room allocation process.
+To simplify the overall process of hostel room allocation, this web application was developed, which will be beneficial for both students and hostel administrators. The application ensures a transparent and efficient room allocation process.
 
 ## Technologies Used
 
