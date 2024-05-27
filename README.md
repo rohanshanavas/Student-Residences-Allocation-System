@@ -72,7 +72,7 @@ To simplify the overall process of hostel room allocation, we developed this web
    npm install
    ```
 
-3. **Install Backend Dependencies:**
+3. **Install Backend Dependencies for Python:**
    ```bash
    cd ../backend
    pip install -r requirements.txt
