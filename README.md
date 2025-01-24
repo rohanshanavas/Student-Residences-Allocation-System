@@ -1,4 +1,4 @@
-# Hostel Room Allocation System
+# Student Residences Allocation System
 
 ## Project Overview
 
